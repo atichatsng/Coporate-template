@@ -2,4 +2,4 @@
 Studying Git
 
 
-ksfddkskfsklfk
+Project for learning
